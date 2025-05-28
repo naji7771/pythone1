@@ -1,0 +1,18 @@
+1. Plotting and fitting of Binomial distribution and graphical representation of probabilities.  
+2. Plotting and fitting of Multinomial distribution and graphical representation of probabilities.  
+3. Plotting and fitting of Poisson distribution and graphical representation of probabilities.  
+4. Plotting and fitting of Geometric distribution and graphical representation of probabilities.  
+5. Plotting and fitting of Uniform distribution and graphical representation of probabilities.  
+6. Plotting and fitting of Exponential distribution and graphical representation of probabilities.  
+7. Plotting and fitting of Normal distribution and graphical representation of probabilities.  
+8. Calculation of cumulative distribution functions for Exponential and Normal distribution.  
+9. Given data from two distributions, find the distance between the distributions.  
+10. Application problems based on the Binomial distribution.  
+11. Application problems based on the Poisson distribution.  
+12. Application problems based on the Normal distribution.  
+13. Presentation of bivariate data through scatter-plot diagrams and calculations of covariance.  
+14. Calculation of Karl Pearson’s correlation coefficients.  
+15. To find the correlation coefficient for a bivariate frequency distribution.  
+16. Generating Random numbers from discrete (Bernoulli, Binomial, Poisson) distributions.  
+17. Generating Random numbers from continuous (Uniform, Normal) distributions.  
+18. Find the entropy from the given data set.
